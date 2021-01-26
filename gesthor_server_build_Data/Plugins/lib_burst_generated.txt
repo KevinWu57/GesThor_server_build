@@ -95,7 +95,6 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=CSHARP_7_OR_LATER
 --compilation-defines=CSHARP_7_3_OR_NEWER
---debug=Full
 --output=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Managed\Unity.Postprocessing.Runtime.dll
@@ -269,7 +268,6 @@ Library: lib_burst_generated
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=CSHARP_7_OR_LATER
 --compilation-defines=CSHARP_7_3_OR_NEWER
---debug=Full
 --output=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\Docs\Unity Projects\GesThor_Env_v2.0\unity\Temp\StagingArea\Data\Managed\Unity.Postprocessing.Runtime.dll
