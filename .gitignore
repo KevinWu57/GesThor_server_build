@@ -1,4 +1,4 @@
 ML-Agents/
-config_gesthor_ppo.yaml
+*.yaml
 results/
 last-btime
